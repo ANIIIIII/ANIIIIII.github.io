@@ -16,19 +16,22 @@
       year: 2023 - 2025
     - title: B.S. in Computer Science and Information Engineering
       institution: National Taiwan University
-      year: 2018 - 2023
+      year: 2019 - 2023
 
 - title: Work Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Research Center for IT Innovation, Academia Sinica, Taiwan
-      year: 2021 - 2024
-      
-    - title: Teaching Assistant for Virtual Machines
+      institution: National Taiwan University
+      year: 2025
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant - Virtual Machines
       institution: Department of Computer Science and Information Engineering, National Taiwan University, Taiwan
       year: 2024 Fall
 
-    - title: Teaching Assistant for Introduction of Cryptography
+    - title: Teaching Assistant - Introduction of Cryptography
       institution: Department of Mathematics, National Taiwan University, Taiwan
       year: 2024 Spring
